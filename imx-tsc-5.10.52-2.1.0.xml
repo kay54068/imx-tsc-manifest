@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="imx-atf" fetch="https://source.codeaurora.org/external/"/>
+
+  <default revision="imx-tsc-5.10.52-2.1.0"
+     remote="imx-atf"
+     sync-j="2" />
+  
+  <project path="imx/imx-atf" name="imx-atf" revision="refs/heads/lf-5.10.52-2.1.0" />
+</manifest>
