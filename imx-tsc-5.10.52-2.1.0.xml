@@ -9,6 +9,7 @@
   <project remote="tscGitlab" path="imx-mkimage" name="imx-mkimage" revision="lf-5.10.52-2.1.0" />
   <project remote="tscGitlab" path="linux-imx" name="linux-imx" revision="lf-5.10.52-2.1.0" />
   <project remote="tscGitlab" path="uboot-imx" name="uboot-imx" revision="lf-5.10.52-2.1.0" />
+  <project remote="tscGitlab" path="build" name="build" revision="lf-5.10.52-2.1.0" />
 
   <remote name="tscGitlab2" fetch="https://gitlab.com/kay54088"/>
   <project remote="tscGitlab2" path="imx-toolchain" name="imx-toolchain" revision="master" />
